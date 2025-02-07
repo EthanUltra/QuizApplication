@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Galileo", "Tesla"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which programming language is known as the backbone of the web?",
+    "options": ["Python", "C++", "JavaScript", "Ruby"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": ["10", "12", "15", "13"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Silver", "Hydrogen"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "HyperTech Mark Language",
+      "HyperTime Machine Language"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": ["300,000 km/s", "150,000 km/s", "3,000 km/s", "1,000 km/s"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Saturn"],
+    "correctIndex": 1
+  }
+]
